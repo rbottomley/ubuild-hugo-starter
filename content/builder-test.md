@@ -23,6 +23,18 @@ content = "Lorem ipsum dolor sit amet, an mei ipsum salutatus, est id meliore su
 headline = "This is the guts of the page"
 template = "1-column-text"
 [[page_sections]]
+block = "three-column-1"
+template = "3-column-text"
+[page_sections.col_1]
+content = "This is about us."
+headline = "Stuff about us"
+[page_sections.col_2]
+content = "We do this."
+headline = "What we do"
+[page_sections.col_3]
+content = "Because you should."
+headline = "Why you should like us"
+[[page_sections]]
 block = "footer-1"
 content = "You have reached the end of the page."
 template = "simple-footer"
