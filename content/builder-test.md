@@ -35,6 +35,11 @@ headline = "What we do"
 content = "Because you should. Εθ βρθτε ινcορρθπτε θσθ, νε σιτ vερεαρ ιμπεδιτ, πονδερθμ σcριπτορεμ εαμ ατ. Vελιτ πονδερθμ vολθπτατιβθσ cθ δθο, ηισ εξ ηομερο σιμιλιqθε qθαερενδθμ. Ιδ σιτ cονγθε δοcτθσ περιcθλισ, εστ αδ ιλλθμ φαλλι cομπρεηενσαμ.Εξ σπλενδιδε σcριβεντθρ cθμ, περ ινσολενσ vολθπτατθμ cομπρεηενσαμ νε, πριμα δολορεσ τινcιδθντ εα σιτ."
 headline = "Why you should like us"
 [[page_sections]]
+block = "media-1"
+caption = "Lightning is scary."
+image = "/uploads/bg-lightning.jpg"
+template = "full-width-media-element"
+[[page_sections]]
 block = "footer-1"
 content = "You have reached the end of the page."
 template = "simple-footer"
