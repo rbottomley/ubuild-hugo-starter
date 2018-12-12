@@ -3,10 +3,6 @@ date = "2018-12-11T14:48:34-08:00"
 layout = "blocks"
 title = "Builder Test"
 [[page_sections]]
-block = "header-3"
-logo = "/uploads/Bob Bottomley.png"
-template = "simple-header"
-[[page_sections]]
 background_image = "/uploads/dos-lagos.png"
 block = "hero-2"
 content = "This is content."
@@ -27,9 +23,8 @@ content = "Lorem ipsum dolor sit amet, an mei ipsum salutatus, est id meliore su
 headline = "This is the guts of the page"
 template = "1-column-text"
 [[page_sections]]
-block = "cta-bar"
-content = "This is a Signnup Bar(?)"
-email_recipient = "rbottomley@gmail.com"
-template = "signup-bar"
+block = "footer-1"
+content = "You have reached the end of the page."
+template = "simple-footer"
 
 +++
