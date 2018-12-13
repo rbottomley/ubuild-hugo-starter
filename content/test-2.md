@@ -6,3 +6,6 @@ loc = "top"
 title = "Test 2"
 
 +++
+## Test 2
+
+This is test test of the theme vs local files.
