@@ -12,4 +12,5 @@ fields:
   type: text
   default: top
 pages:
+- content/test-2.md
 - content/test.md
